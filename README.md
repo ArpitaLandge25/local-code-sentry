@@ -34,7 +34,7 @@ Three specialized AI agents work together:
 
 3. Run on any Python file:
 
-        python pipeline.py yourfile.py
+        python pipeline.py filename.py
 
 ## Project Structure
 
